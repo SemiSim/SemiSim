@@ -1,0 +1,16 @@
+Collect, pre-process, and structure
+# ✦ COLLECTION
+### Data Sources:
+- **SAPS**: Secondary structure, hydrophobicity, and disorder prediction features.
+- **PONDR VLXT**: Disordered regions prediction.
+- **LLPSDB, PhaseSepDB**: LLPS-specific experimental data.
+- **PLAAC**: Predicts prion-like amino acid sequences.
+- **PDB**: Protein structures and sequence data.
+- **BioGRID, STRING**: Protein-protein interaction networks.
+- **DSSP**: Secondary structure assignments.
+
+
+# ✦ PRE-PROCESSING
+**✧ Protein Sequences & Structural Data**: We’ll need to standardize all protein sequences and structures in a format compatible with our model (e.g., FASTA format for sequences, PDB format for structures).
+- We can collect the protein sequences from the **PDB** (Protein Data Bank) and convert them into a machine-readable format or even directly into embeddings.
+- Might have to use tools like **BioPython** to read the PDB or FASTA files (for sequence manipulation & extraction).
