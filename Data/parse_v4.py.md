@@ -1,5 +1,3 @@
-Up to date as of 24 APRIL 2025 11:02A -Ry
-
 Parsers integrated so far:
 _saps.txt *fixed
 _pondr.txt
@@ -9,7 +7,7 @@ _pdb.pdb *removed
 _dssp.mmcif *removed
 _biogrid.tsv (individual protein) *fixed
 
-Each parser is implemented in its own function for clarity and extensibility:) makes it much easier to add more parsing functions on as I go. I can annotate it when i have the final code up so we all know exactly what's doing what and why
+Each parser is implemented in its own function for clarity and extensibility makes it much easier to add more parsing functions
 
 Need to install Biopython & MD Analysis (optional-ish fallback)
 ```bash
