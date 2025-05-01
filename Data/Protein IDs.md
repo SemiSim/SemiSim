@@ -128,14 +128,6 @@ SAPS outputs must be saved as `assignedID_saps.txt` files in `C:/.../training_da
 | [Tau △PHF6,△PHF6]_Cleaved(ΔPHF6*ΔPHF6 tau441 in which residues 275 to 280 and 306 to 311 were deleted) | p_tau_mut21 |  | [http://bio-comp.org.cn/llpsdbv2/information.php?detail=LLPS002766](http://bio-comp.org.cn/llpsdbv2/information.php?detail=LLPS002766) |
 | [Alpha-synuclein]_WT | p_asynuclein |  | [http://bio-comp.org.cn/llpsdbv2/information.php?detail=LLPS002836](http://bio-comp.org.cn/llpsdbv2/information.php?detail=LLPS002836) |
 | [Alpha-synuclein 1-107]_Cleaved(The residue 1–107 of α-synuclein.) | p_asynuclein_mut1 |  | [http://bio-comp.org.cn/llpsdbv2/information.php?detail=LLPS002833](http://bio-comp.org.cn/llpsdbv2/information.php?detail=LLPS002833) |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-
 
 
 
