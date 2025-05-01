@@ -2,7 +2,7 @@
 A protoype AI Monte-Carlo sim block used to predict LLPS interactions
 intented for CHEM-4640/5640 course at The University of Colorado Denver
 
-## Data
+# Data
 This folder provides the different pages which describe how/why data was taken to use as training data. A v4 data parser is included in this folder for the various data collected
 
 <!--
