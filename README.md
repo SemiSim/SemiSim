@@ -1,5 +1,6 @@
 ## SemiSim
 A protoype AI Monte-Carlo sim block used to predict LLPS interactions
+Intented a for CHEM-4640/5640 course at The University of Colorado Denver
 
 <!--
 **SemiSim/SemiSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
