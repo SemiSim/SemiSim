@@ -2,6 +2,9 @@
 A protoype AI Monte-Carlo sim block used to predict LLPS interactions
 intented for CHEM-4640/5640 course at The University of Colorado Denver
 
+## Main Files Folder (Main Content)
+Includes relevant files for the presentation of the model (prototype v0.1), which include the final code and examples of the results it outputs 
+
 ## Data Folder
 This folder provides the different pages which describe how/why data was taken to use as training data. A v4 data parser is included in this folder for the various data collected
 
@@ -16,9 +19,6 @@ Includes codes for Alt sim, automation, and an old version of the training scrip
 
 ## Evaluation Folder
 Provides relevant information for evaluating the model after training
-
-## Main Files Folder
-includes relevant files for the presentation of the model (prototype v0.1), which include the final code and examples of the results it outputs 
 <!--
 **SemiSim/SemiSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
