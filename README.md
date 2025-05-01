@@ -11,11 +11,14 @@ Provides reasoning and steps to creating and training the model
 ## Keras Folder
 Provides the explanation of Keras, how it's built, and why it is used
 
-## Reference Code
+## Reference Code Folder
 Includes codes for Alt sim, automation, and an old version of the training script
 
-## Evaluation
+## Evaluation Folder
 Provides relevant information for evaluating the model after training
+
+## main-files Folder
+includes relevant files for the presentation of the model (prototype v0.1), which include the final code and examples of the results it outputs 
 <!--
 **SemiSim/SemiSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
