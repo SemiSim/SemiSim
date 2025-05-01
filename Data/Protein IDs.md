@@ -1,4 +1,3 @@
-Emmanuel:
 PONDR outputs must be saved as `assignedID_pondr.txt` files in  `C:/.../training_data/pondr`
 
 SAPS outputs must be saved as `assignedID_saps.txt` files in `C:/.../training_data/saps`
