@@ -1,13 +1,5 @@
 ## Type: Training Script
 
-Updated  script to include changes made in:
- 
-- Modded LLPS dataset class in `line 8` of OG code
-
-
-- Modded `train_model()` in `line ` of OG code to evaluate generalization
-
-
 Code includes:
 - ==Dataset class== for loading `.npy` / `.pt `features and labels 
 - An MLP classifier
