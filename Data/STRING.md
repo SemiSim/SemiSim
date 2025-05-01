@@ -10,16 +10,15 @@
 
 
 These are the parameters used: (default)
+![image](https://github.com/user-attachments/assets/3895805f-04b7-40a0-9314-8766a60ad4aa)
 
+Download the *entire *STRING database of all PPI in humans:
+![image](https://github.com/user-attachments/assets/83535341-c133-4d5f-87e6-17a1f47b9b13)
 
+From the results generated,downloaded this file:
+![image](https://github.com/user-attachments/assets/2fd36009-4afd-451a-8f56-e656e9eab47b)
 
-
-I've also downloaded the *entire *STRING database of all PPI in humans:
-
-
-From the results generated, I downloaded this file:
-
-and renamed it to `fullhuman_string.txt`
+and rename it to `fullhuman_string.txt`
 
 
 
