@@ -5,6 +5,15 @@ intented for CHEM-4640/5640 course at The University of Colorado Denver
 ## Data Folder
 This folder provides the different pages which describe how/why data was taken to use as training data. A v4 data parser is included in this folder for the various data collected
 
+## Guide Folder
+Provides reasoning and steps to creating and training the model
+
+## Keras Folder
+Provides the explanation of Keras, how it's built, and why it is used
+
+## Reference Code
+
+## Evaluation
 <!--
 **SemiSim/SemiSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
