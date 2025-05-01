@@ -12,8 +12,10 @@ Provides reasoning and steps to creating and training the model
 Provides the explanation of Keras, how it's built, and why it is used
 
 ## Reference Code
+Includes codes for Alt sim, automation, and an old version of the training script
 
 ## Evaluation
+Provides relevant information for evaluating the model after training
 <!--
 **SemiSim/SemiSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
