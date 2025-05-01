@@ -1,4 +1,5 @@
-## Test Test
+## SemiSim
+A protoype AI Monte-Carlo sim block used to predict LLPS interactions
 
 <!--
 **SemiSim/SemiSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
