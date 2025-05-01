@@ -1,6 +1,6 @@
 Scroll to 'About parse_pondr()' section below for info on code and annotated code block at the bottom
 
-To get PONDR output: ==.txt==
+To get PONDR output: .txt
 1. Open PONDR
 2. ☑︎ VLXT
 3. Type the "Protein Name" as its assigned protein ID `proteinID`
