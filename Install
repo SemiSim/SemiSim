@@ -1,0 +1,55 @@
+==================
+Installation Guide
+==================
+
+Where to get SemiSim
+--------------------
+
+The SemiSim source code and Jupyter notebook are available at  
+`<https://github.com/SemiSim/SemiSim-MU-/tree/main>`_  
+You can clone the repository using Git or download the ZIP file directly from the site.
+
+Requirements
+------------
+
+SemiSim requires the following Python packages:
+- `numpy <https://numpy.org>`_
+- `pandas <https://pandas.pydata.org>`_
+- `scikit-learn <https://scikit-learn.org>`_
+- `tensorflow <https://www.tensorflow.org>`_
+
+You may also optionally install:
+- `matplotlib` or `seaborn` for visualizations
+
+Unix/OSX Installation
+---------------------
+
+After installing Python (>=3.7), open a terminal and run:
+
+.. code-block:: bash
+
+    $ git clone https://github.com/SemiSim/SemiSim-MU-.git
+    $ cd SemiSim-MU-
+    $ pip install -r requirements.txt
+    $ jupyter notebook
+
+If `requirements.txt` is not available, install manually:
+
+.. code-block:: bash
+
+    $ pip install numpy pandas scikit-learn tensorflow
+
+Windows Installation
+--------------------
+
+Open Anaconda Prompt or Command Prompt and run:
+
+.. code-block:: bash
+
+    > git clone https://github.com/SemiSim/SemiSim-MU-.git
+    > cd SemiSim-MU-
+    > pip install -r requirements.txt
+    > jupyter notebook
+
+If Git is not installed, you can also download the ZIP directly from the GitHub page, extract it, and run the notebook manually.
+
