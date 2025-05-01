@@ -1,4 +1,4 @@
-**✧ Model Evaluation**: After training, we'll evaluate the model using a separate test set (which the model hasn't seen before) to assess performance (Ry will prep this using code in ). 
+**✧ Model Evaluation**: After training, we'll evaluate the model using a separate test set (which the model hasn't seen before) to assess performance. 
 
 semisim_eval_v1.py
 ```python
