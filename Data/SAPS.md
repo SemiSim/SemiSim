@@ -2,7 +2,7 @@ Scroll to 'About parse_saps()' section below for info on code and annotated code
 
 1. Paste FASTA
 2. Use these parameters for each entry:
-
+![image](https://github.com/user-attachments/assets/366303f9-c12c-4b64-85c1-8f57261601c8)
 
 
 (We're counting His as a positive residue to reflect cytoplasmic conditions.)
