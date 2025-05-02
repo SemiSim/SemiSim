@@ -1,5 +1,6 @@
 Use these parameters for PLAAC:
 
+![image](https://github.com/user-attachments/assets/9ed305e2-8668-44d8-96c2-b0a6111c8198)
 
 
 
