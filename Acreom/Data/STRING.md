@@ -11,11 +11,12 @@
 
 These are the parameters used: (default)
 
-
+![image](https://github.com/user-attachments/assets/f70da06b-11e7-4546-a1b9-3410e01894d3)
 
 
 I've also downloaded the *entire *STRING database of all PPI in humans:
 
+![image](https://github.com/user-attachments/assets/451d5f75-2f1a-4cb9-ada9-bc112a7c6da5)
 
 From the results generated, I downloaded this file:
 
