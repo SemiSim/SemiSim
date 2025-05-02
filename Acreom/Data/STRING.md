@@ -20,6 +20,9 @@ I've also downloaded the *entire *STRING database of all PPI in humans:
 
 From the results generated, I downloaded this file:
 
+![image](https://github.com/user-attachments/assets/0772fe5a-fe01-4279-a153-21931223ea43)
+
+
 and renamed it to `fullhuman_string.txt`
 
 
